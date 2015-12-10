@@ -1,0 +1,6 @@
+[crowdfunding]
+start=0
+url=
+mess9=
+mess25=
+mess34=
